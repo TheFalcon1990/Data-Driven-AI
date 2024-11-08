@@ -1,0 +1,6 @@
+c3.jpeg: a
+c4.jpg: b
+c5.jpg: c
+d1.jpeg: d
+d2.jpg: e
+d4.jpg: f
